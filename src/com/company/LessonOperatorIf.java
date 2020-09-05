@@ -1,8 +1,8 @@
 package com.company;
 
-public class TestOperatorIf {
+public class LessonOperatorIf {
 
-    public static void test() {
+    public static void learn() {
 
 /*
         int i = 500, j = 1000;

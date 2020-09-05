@@ -2,8 +2,8 @@ package com.company;
 
 import java.util.Scanner;
 
-public class TestScanner {
-    public static void test() {
+public class LessonScanner {
+    public static void learn() {
 
         Scanner num =new Scanner(System.in);
 //        int a;

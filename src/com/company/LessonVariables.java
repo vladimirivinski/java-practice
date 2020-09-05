@@ -1,7 +1,7 @@
 package com.company;
 
-public class TestVariables {
-    public static void test (){
+public class LessonVariables {
+    public static void learn (){
         byte a = 1;
         int b = 432;
         long c = 2312312;

@@ -1,8 +1,8 @@
 package com.company;
 
-public class TestMath {
+public class LessonMath {
 
-    public static void test() {
+    public static void learn() {
 
         float num1 = 3.34f, num2 = 14.23f, res;
         res = num1 + num2;

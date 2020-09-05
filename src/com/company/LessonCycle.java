@@ -1,6 +1,6 @@
 package com.company;
 
-public class TestCycle {
+public class LessonCycle {
     public static void test() {
 
         int q =48;
