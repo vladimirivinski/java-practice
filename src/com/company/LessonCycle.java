@@ -1,7 +1,7 @@
 package com.company;
 
 public class LessonCycle {
-    public static void test() {
+    public static void learn() {
 
         int q =48;
         do {
