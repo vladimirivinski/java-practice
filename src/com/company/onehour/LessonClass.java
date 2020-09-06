@@ -1,6 +1,7 @@
-package com.company;
+package com.company.onehour;
 
-import java.io.OutputStream;
+import com.company.onehour.Person;
+import com.company.onehour.Student;
 
 public class LessonClass {
     public static void learn() {

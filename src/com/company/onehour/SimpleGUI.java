@@ -1,4 +1,4 @@
-package com.company;
+package com.company.onehour;
 
 import java.awt.*;
 import java.awt.event.*;

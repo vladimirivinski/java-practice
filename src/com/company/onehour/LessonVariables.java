@@ -1,4 +1,4 @@
-package com.company;
+package com.company.onehour;
 
 public class LessonVariables {
     public static void learn (){

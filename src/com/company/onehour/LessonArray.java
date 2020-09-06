@@ -1,4 +1,6 @@
-package com.company;
+package com.company.onehour;
+
+import com.company.Main;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.company;
+package com.company.onehour;
 
 public class Student extends Person {
     int course;
