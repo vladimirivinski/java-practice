@@ -1,9 +1,23 @@
 package com.company;
 
+import java.util.Scanner;
+
 public class LessonArray {
 
     public static void learn() {
-// создание двухмерного массива
+        int [] z;
+        int x;
+        Scanner exm = new Scanner(System.in);
+        System.out.println("Enter number of array: ");
+        x = exm.nextInt();
+        z = new int[x];
+        for (int i = 0; i < x; i++){
+            System.out.println("Enter z[" + i + "] = ");
+            z [i] = exm.nextInt();
+        }
+
+        // создание двухмерного массива
+/*
         int [][] arr = new int[][] {
                 {23,21,12,1},
                 {10,13,43,3},
@@ -15,6 +29,7 @@ public class LessonArray {
             }
             System.out.println("    ");
         }
+*/
 
 //        arr [1][1] = 444; //переопределение значения
 //        System.out.println(arr[2][3]);

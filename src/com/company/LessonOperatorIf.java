@@ -1,9 +1,13 @@
 package com.company;
 
+import java.util.Scanner;
+
 public class LessonOperatorIf {
 
     public static void learn() {
 
+        Scanner number = new Scanner(System.in);
+        int num = number.nextInt();
 /*
         int i = 500, j = 1000;
         if (i != 400 && j == 100) {
@@ -16,8 +20,6 @@ public class LessonOperatorIf {
             System.out.println("null");
         }
 */
-
-        int num = 100;
         switch (num){
             case 10:
                 System.out.println("num = 10");
@@ -25,13 +27,13 @@ public class LessonOperatorIf {
             case 50:
                 System.out.println("num = 50");
                 break;
-            case 1000:
-                System.out.println("num = 1000");
+            case 100:
+                System.out.println("num = 100");
                 if (num == 100)
                     System.out.println("All right!");
                     break;
             default:
-                System.out.println("num is null");
+                System.out.println("I don't know this num");
         }
 
     }

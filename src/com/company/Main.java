@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-      LessonClass.learn();
+//        LessonClass.learn();
 //        LessonArray.learn();
 //        LessonCycle.learn();
 //        LessonFunction.learn();
@@ -11,6 +11,7 @@ public class Main {
 //        LessonOperatorIf.learn();
 //        LessonScanner.learn();
 //        LessonVariables.learn();
+            LessonSimpleGUI.learn();
 //
     }
 }
