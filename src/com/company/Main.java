@@ -1,6 +1,8 @@
 package com.company;
 
 import com.company.onehour.*;
+import com.company.onehour.persons.LessonClass;
+import com.company.professional.*;
 
 public class Main {
 
@@ -15,6 +17,9 @@ public class Main {
 //        LessonScanner.learn();
 //        LessonVariables.learn();
 //        LessonSimpleGUI.learn();
+
+
+        ProfArrayList.run();
 
     }
 }

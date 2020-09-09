@@ -1,7 +1,6 @@
-package com.company.onehour;
+package com.company.onehour.persons;
 
-import com.company.onehour.Person;
-import com.company.onehour.Student;
+import com.company.onehour.persons.Person;
 
 public class LessonClass {
     public static void learn() {

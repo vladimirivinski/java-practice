@@ -1,4 +1,4 @@
-package com.company.onehour;
+package com.company.onehour.persons;
 
 public class Person {
     int height;
