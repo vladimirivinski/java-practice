@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 
 public class ProfArrayList {
-    public static void run() {
+    public static void learn() {
         ArrayList<Integer> some_dyn = new ArrayList<>(5);
         some_dyn.add(30);
         some_dyn.add(322);

@@ -7,7 +7,7 @@ import java.io.FileReader;
 import java.io.BufferedReader;
 
 public class ProfFiles {
-    public static void run() {
+    public static void learn() {
 
         BufferedReader br = null;
         try {

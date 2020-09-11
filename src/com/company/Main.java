@@ -3,6 +3,7 @@ package com.company;
 import com.company.onehour.*;
 import com.company.onehour.persons.LessonClass;
 import com.company.professional.*;
+import com.company.professional.interface_java.Inter;
 
 public class Main {
 
@@ -19,8 +20,11 @@ public class Main {
 //        LessonSimpleGUI.learn();
 
 
-//        ProfArrayList.run();
-//        ProfExeption.run();
-        ProfFiles.run();
+//        ProfArrayList.learn();
+//        ProfExeption.learn();
+//        ProfFiles.learn();
+//        ProfThreads.learn();
+//        Inter.learn();
+
     }
 }

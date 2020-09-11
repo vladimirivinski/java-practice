@@ -1,7 +1,7 @@
 package com.company.professional;
 
 public class ProfExeption {
-    public static void run() {
+    public static void learn() {
 //        try {
 //            int x = 100/0;
 //        } catch (ArithmeticException e) {
