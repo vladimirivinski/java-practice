@@ -19,7 +19,8 @@ public class Main {
 //        LessonSimpleGUI.learn();
 
 
-        ProfArrayList.run();
+//        ProfArrayList.run();
+        ProfExeption.run();
 
     }
 }
